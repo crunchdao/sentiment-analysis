@@ -19,10 +19,16 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm
 
 # Introduction
 
-One of the most important paper of the last century is [@einstein].
+Lorem ipsum dolor sit amet.
+
+# Sentiment Analysis
+
+[@Tabari_2018]
+
+# Network Structure
+
+[@SciPyProceedings_11]
 
 # Conclusions
-
-Enjoy!
 
 # References
